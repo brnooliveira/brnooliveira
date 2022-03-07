@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Breno Oliveira
 
-
-
-- 🌱 I’m currently learning ReactJS, Machine Learning and NodeJS.
+* ⚡ Electrical Engineer & Data Scientist Jr.
+* 📖 Learning ReactJS, Machine Learning and NodeJS.
 
 
 
