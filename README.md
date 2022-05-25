@@ -2,7 +2,7 @@
 
 * ⚡ Electrical Engineer & Data Scientits Jr.
 * ####### BUT, BACK-END DEVELOPMENT IS MY MAIN INTERESTING! LET'S BORA! #######
-* 📖 Ruby / Ruby on Rails!!!!!
+
 
 
 
