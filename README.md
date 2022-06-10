@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Breno Oliveira
 
-* ⚡ Electrical Engineer | Data Analyst | Back End Dev.
+* ⚡ Electrical Engineer | Data Scientits | Back End Developer.
 
 
 
